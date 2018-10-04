@@ -45,7 +45,8 @@ Jadi Struktur Data dan algoritma itu saling berkaitan, contohnya kita mempunyai 
 
 Tetapi bila pemakaian struktur data dan juga algoritma yang tidak tepat, maka program akan merespon sangat lambat.
 
-## Link Algoritma, Pseucode dan juga Flowchart
-File Html -> [Struktur Data - Project Akhir UAS - Semester 3](https://nuevoquerto.github.io/project.html){:target="_blank"}
+## Link
+Untuk mengetahui macam-macam algoritma sorting dan searching, beserta pseudocode dan juga flowchart dapat dilihat link dibawah ini.
 
-File Pdf -> [Download PDF](https://drive.google.com/file/d/1YbX2IXexd-xmX4-AWpaHSOoHenn6liPh/view?usp=sharing){:target="_blank"}
+File Html -> [Struktur Data - Project Akhir UAS - Semester 3](https://nuevoquerto.github.io/project.html){:target="_blank"}<br />
+File Pdf -> [Struktur Data - Project Akhir UAS - Semester 3](https://drive.google.com/file/d/1YbX2IXexd-xmX4-AWpaHSOoHenn6liPh/view?usp=sharing){:target="_blank"}
