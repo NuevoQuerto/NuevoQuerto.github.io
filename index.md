@@ -17,7 +17,7 @@ Dalam mendefinisikan algoritma, kita harus dapat mendefinisikan tiga hal utama d
 Kita telah mengetahui dengan jelas makna dari algoritma, sehingga pertanyaan selanjutnya adalah algoritma seperti apa yang dapat dikatakan sebagai algoritma yang baik? Pada umumnya kita tidak ingin menggunakan algoritma yang salah untuk menyelesaikan masalah karena hal ini dapat menyebabkan masalah tidak diselesaikan dengan optimal, atau lebih buruknya, tidak diselesaikan sama sekali.
 
 Sebuah algoritma yang baik memiliki sifat-sifat berikut:
-  1. **Benar**, di mana algoritma menyelesaikan masalah dengan tepat, sesuai dengan definisi masukan / keluaran algoritma yang diberikan.
+&nbsp;&nbsp;&nbsp;&nbsp;1. **Benar**, di mana algoritma menyelesaikan masalah dengan tepat, sesuai dengan definisi masukan / keluaran algoritma yang diberikan.
   2. **Efisien**, berarti algoritma menyelesaikan masalah tanpa memberatkan bagian lain dari apliikasi. Sebuah algoritma yang tidak efisien akan menggunakan sumber daya (memori, CPU) yang besar dan memberatkan aplikasi yang mengimplementasikan algoritma tersebut.
   3. **Mudah diimplementasikan**, artinya sebuah algoritma yang baik harus dapat dimengerti dengan mudah sehingga implementasi algoritma dapat dilakukan siapapun dengan pendidikan yang tepat, dalam waktu yang masuk akal.
 
