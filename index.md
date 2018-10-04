@@ -30,7 +30,7 @@ Dalam teknik pemrograman, struktur data berarti tata letak data yang berisi kolo
 
 ### Klasifikasi Data
 Pada garis besarnya, data dapat dikategorikan menjadi:
-1. Tipe Data Sederhana, yang terdiri dari:
+- Tipe Data Sederhana, yang terdiri dari:
   -  Data Sederhana Tunggal, misalnya Integer, Real, Boolean, dan Karakter.
   -  Data Sederhana Majemuk, misalnya String.
 
