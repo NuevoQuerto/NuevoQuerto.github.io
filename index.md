@@ -41,11 +41,10 @@ Pada garis besarnya, data dapat dikategorikan menjadi:
     *  Nonlinier, misalnya Binary Tree, Binary Search Tree, Graph, dll.
 
 ## Kesimpulan
-<p>
 Jadi Struktur Data dan algoritma itu saling berkaitan, contohnya kita mempunyai website, dimana web tersebut mempunyai data pengguna yang sangat banyak. Tetapi semua data pengguna tersebut belum terurut atau masih acak. Untuk mengatasi itu masalah tersebut, maka pemakaian struktur data dan algoritma yang tepat akan menghasilkan program yang tepat dan juga cepat dalam hal eksekusi. Maka saat pengguna ingin mengurutkan data maka program akan mengeksekusi (merespon) dengan cepat.
 
 Tetapi bila pemakaian struktur data dan juga algoritma yang tidak tepat, maka program akan merespon sangat lambat.
-</p>
+
 ## Link Algoritma, Pseucode dan juga Flowchart
 File Html -> [Struktur Data - Project Akhir UAS - Semester 3](https://nuevoquerto.github.io/project.html){:target="_blank"}
 
