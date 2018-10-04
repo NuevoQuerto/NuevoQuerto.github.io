@@ -23,7 +23,7 @@ Sebuah algoritma yang baik memiliki sifat-sifat berikut:
 
 Pada prakteknya, tentunya ketiga hal tersebut tidak dapat selalu tercapai. Kebenaran dari sebuah algoritma umumnya selalu dapat dicapai, setidaknya untuk nilai-nilai masukan umum, tetapi efisiensi dan kemudahan implementasi tidak selalu didapatkan. Begitupun, tentunya kita harus tetap berusaha mencapai ketiga hal tersebut dalam merancang sebuah algoritma.
 
-## Link Algortima, Pseucode dan juga Flowchart
+## Link Algoritma, Pseucode dan juga Flowchart
 File Html -> [Struktur Data - Project Akhir UAS - Semester 3](https://nuevoquerto.github.io/project.html){:target="_blank"}
 
 File Pdf -> [Download PDF](https://drive.google.com/file/d/1YbX2IXexd-xmX4-AWpaHSOoHenn6liPh/view?usp=sharing){:target="_blank"}
