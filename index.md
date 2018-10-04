@@ -36,9 +36,9 @@ Pada garis besarnya, data dapat dikategorikan menjadi:
 
 - **Struktur Data**, yang terdiri dari:
   -  Struktur Data Sederhana, misalnya Array dan Record.
-  -  Struktur Data majemuk, terdiri dari: 
-    -Linier, misalnya: Stack, Queue, dan Linier Linked List.
-    -Nonlinier, misalnya Binary Tree, Binary Search Tree, Graph, dll.
+  * Struktur Data majemuk, terdiri dari: 
+    * Linier, misalnya: Stack, Queue, dan Linier Linked List.
+    * Nonlinier, misalnya Binary Tree, Binary Search Tree, Graph, dll.
 
 ## Link Algoritma, Pseucode dan juga Flowchart
 File Html -> [Struktur Data - Project Akhir UAS - Semester 3](https://nuevoquerto.github.io/project.html){:target="_blank"}
