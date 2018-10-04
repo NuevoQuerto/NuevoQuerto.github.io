@@ -23,6 +23,9 @@ Sebuah algoritma yang baik memiliki sifat-sifat berikut:
 
 Pada prakteknya, tentunya ketiga hal tersebut tidak dapat selalu tercapai. Kebenaran dari sebuah algoritma umumnya selalu dapat dicapai, setidaknya untuk nilai-nilai masukan umum, tetapi efisiensi dan kemudahan implementasi tidak selalu didapatkan. Begitupun, tentunya kita harus tetap berusaha mencapai ketiga hal tersebut dalam merancang sebuah algoritma.
 
+## Pengenalan Struktur Data
+**Dalam istilah ilmu komputer**, **Struktur Data** adalah cara penyimpanan, penyusunan dan pengaturan data di dalam media penyimpanan komputer sehingga data tersebut dapat digunakan secara efisien.
+
 ## Link Algoritma, Pseucode dan juga Flowchart
 File Html -> [Struktur Data - Project Akhir UAS - Semester 3](https://nuevoquerto.github.io/project.html){:target="_blank"}
 
