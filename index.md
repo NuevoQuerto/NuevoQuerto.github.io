@@ -1,3 +1,7 @@
+# Struktur Data Dan Algoritma
+
+Sebagai salah satu dasar dari ilmu komputer, algoritma merupakan hal yang sangat penting untuk dikuasai oleh orang-orang yang berkecimpung di dunia ilmu komputer, dari peneliti sampai ke praktisi. Tentunya penguasaan akan algoritma tidak cukup hanya sampai pada tahap mengetahui dan menggunakan algoritma yang tepat untuk menyelesaikan masalah. Seorang yang mengerti ilmu komputer harus juga mampu merancang dan mengembangkan sebuah algoritma berdasarkan masalah-masalah yang ditemui. Tulisan ini juga membahas jenis-jenis algoritma yang ada dan pseucode, flowchart dari algoritma tersebut.
+
 ## Project
 File Html -> [Struktur Data - Project Akhir UAS - Semester 3](https://nuevoquerto.github.io/project.html){:target="_blank"}
 
