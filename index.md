@@ -26,8 +26,8 @@ Pada prakteknya, tentunya ketiga hal tersebut tidak dapat selalu tercapai. Keben
 ### Jenis - Jenis Algoritma
 Untuk tulisan disini hanya membahas jenis algoritma sorting dan juga searching.
   * Pengertian algoritma sorting dan juga searching:
-    * Algoritma sorting, yaitu proses mengurutkan suatu data yang tidak terurut (acak) menjadi terurut secara menaik(Ascending) atau menurun(Descending).
-    * Algoritma searching, yaitu proses mencari suatu data didalam kumpulan data.
+    * **Algoritma sorting**, yaitu proses mengurutkan suatu data yang tidak terurut (acak) menjadi terurut secara menaik(Ascending) atau menurun(Descending).
+    * **Algoritma searching**, yaitu proses mencari suatu data didalam kumpulan data.
     
   * Jenis - jenis algoritma sorting yang umum:
     * Insertion Sort.
