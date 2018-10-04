@@ -3,7 +3,7 @@
 ## Pengenalan Algoritma
 Sebagai salah satu dasar dari ilmu komputer, algoritma merupakan hal yang sangat penting untuk dikuasai oleh orang-orang yang berkecimpung di dunia ilmu komputer, dari peneliti sampai ke praktisi. Tentunya penguasaan akan algoritma tidak cukup hanya sampai pada tahap mengetahui dan menggunakan algoritma yang tepat untuk menyelesaikan masalah. Seorang yang mengerti ilmu komputer harus juga mampu merancang dan mengembangkan sebuah algoritma berdasarkan masalah-masalah yang ditemui. Tulisan ini juga membahas jenis-jenis algoritma yang ada dan pseucode, flowchart dari algoritma tersebut yang terdapat pada link dibawah.
 
-## Apa itu Algoritma?
+### Apa itu Algoritma?
 > Algoritma merupakan langkah-langkah (prosedur) yang harus dilakukan untuk menyelesaikan sebuah masalah.
 
 Program komputer umumnya dibangun dengan menggunakan beberapa algoritma untuk menyelesaikan sebuah permasalahan. Misalnya sebuah program pencarian teks seperti grep akan memerlukan algoritma khusus untuk membaca dan menelusuri file, algoritma lain untuk mencari teks yang tepat di dalam file, dan satu algoritma lagi untuk menampilkan hasil pencarian ke pengguna.
@@ -13,7 +13,7 @@ Dalam mendefinisikan algoritma, kita harus dapat mendefinisikan tiga hal utama d
 2. **Masukan**, yaitu contoh data atau keadaan yang menjadi permasalahan.
 3. **Keluaran**, yaitu bentuk akhir dari data atau keadaan setelah algoritma diimplementasikan ke masukan. Keluaran merupakan hasil ideal yang diinginkan dan dianggap telah menyelesaikan masalah.
 
-## Algoritma yang Baik
+### Algoritma yang Baik
 Kita telah mengetahui dengan jelas makna dari algoritma, sehingga pertanyaan selanjutnya adalah algoritma seperti apa yang dapat dikatakan sebagai algoritma yang baik? Pada umumnya kita tidak ingin menggunakan algoritma yang salah untuk menyelesaikan masalah karena hal ini dapat menyebabkan masalah tidak diselesaikan dengan optimal, atau lebih buruknya, tidak diselesaikan sama sekali.
 
 Sebuah algoritma yang baik memiliki sifat-sifat berikut:
