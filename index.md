@@ -40,7 +40,8 @@ Pada garis besarnya, data dapat dikategorikan menjadi:
     *  Linier, misalnya: Stack, Queue, dan Linier Linked List.
     *  Nonlinier, misalnya Binary Tree, Binary Search Tree, Graph, dll.
 
-Pemakaian struktur data yang tepat di dalam proses pemrograman akan menghasilkan algoritma yang lebih jelas dan tepat, sehingga menjadikan program secara keseluruhan lebih efisien dan sederhana.
+## Kesimpulan
+Jadi Struktur Data dan algoritma itu saling berkaitan, contohnya kita mempunyai website, dimana web tersebut mempunyai data pengguna. Tetapi semua data pengguna tersebut belum terurut atau masih acak. Untuk mengatasi itu masalah tersebut, maka pemakaian struktur data dan algoritma yang tepat akan menghasilkan program yang tepat dan juga cepat dalam hal eksekusi. Maka saat pengguna ingin mengurutkan data maka program akan mengeksekusi (merespon) dengan cepat
 
 ## Link Algoritma, Pseucode dan juga Flowchart
 File Html -> [Struktur Data - Project Akhir UAS - Semester 3](https://nuevoquerto.github.io/project.html){:target="_blank"}
