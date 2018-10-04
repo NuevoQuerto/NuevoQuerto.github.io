@@ -9,9 +9,19 @@ Sebagai salah satu dasar dari ilmu komputer, algoritma merupakan hal yang sangat
 Program komputer umumnya dibangun dengan menggunakan beberapa algoritma untuk menyelesaikan sebuah permasalahan. Misalnya sebuah program pencarian teks seperti grep akan memerlukan algoritma khusus untuk membaca dan menelusuri file, algoritma lain untuk mencari teks yang tepat di dalam file, dan satu algoritma lagi untuk menampilkan hasil pencarian ke pengguna.
 
 Dalam mendefinisikan algoritma, kita harus dapat mendefinisikan tiga hal utama dengan jelas, yaitu:
-1. Masalah, yaitu sebuah persoalan yang ingin diselesaikan oleh sebuah algoritma.
-2. Masukan, yaitu contoh data atau keadaan yang menjadi permasalahan.
-3. Keluaran, yaitu bentuk akhir dari data atau keadaan setelah algoritma diimplementasikan ke masukan. Keluaran merupakan hasil ideal yang diinginkan dan dianggap telah menyelesaikan masalah.
+1. **Masalah**, yaitu sebuah persoalan yang ingin diselesaikan oleh sebuah algoritma.
+2. **Masukan**, yaitu contoh data atau keadaan yang menjadi permasalahan.
+3. **Keluaran**, yaitu bentuk akhir dari data atau keadaan setelah algoritma diimplementasikan ke masukan. Keluaran merupakan hasil ideal yang diinginkan dan dianggap telah menyelesaikan masalah.
+
+## Algoritma yang Baik
+Kita telah mengetahui dengan jelas makna dari algoritma, sehingga pertanyaan selanjutnya adalah algoritma seperti apa yang dapat dikatakan sebagai algoritma yang baik? Pada umumnya kita tidak ingin menggunakan algoritma yang salah untuk menyelesaikan masalah karena hal ini dapat menyebabkan masalah tidak diselesaikan dengan optimal, atau lebih buruknya, tidak diselesaikan sama sekali.
+
+Sebuah algoritma yang baik memiliki sifat-sifat berikut:
+1. **Benar**, di mana algoritma menyelesaikan masalah dengan tepat, sesuai dengan definisi masukan / keluaran algoritma yang diberikan.
+2. **Efisien**, berarti algoritma menyelesaikan masalah tanpa memberatkan bagian lain dari apliikasi. Sebuah algoritma yang tidak efisien akan menggunakan sumber daya (memori, CPU) yang besar dan memberatkan aplikasi yang mengimplementasikan algoritma tersebut.
+3. **Mudah diimplementasikan**, artinya sebuah algoritma yang baik harus dapat dimengerti dengan mudah sehingga implementasi algoritma dapat dilakukan siapapun dengan pendidikan yang tepat, dalam waktu yang masuk akal.
+
+Pada prakteknya, tentunya ketiga hal tersebut tidak dapat selalu tercapai. Kebenaran dari sebuah algoritma umumnya selalu dapat dicapai, setidaknya untuk nilai-nilai masukan umum, tetapi efisiensi dan kemudahan implementasi tidak selalu didapatkan. Begitupun, tentunya kita harus tetap berusaha mencapai ketiga hal tersebut dalam merancang sebuah algoritma.
 
 ## Link Algortima, Pseucode dan juga Flowchart
 File Html -> [Struktur Data - Project Akhir UAS - Semester 3](https://nuevoquerto.github.io/project.html){:target="_blank"}
