@@ -23,6 +23,24 @@ Sebuah algoritma yang baik memiliki sifat-sifat berikut:
 
 Pada prakteknya, tentunya ketiga hal tersebut tidak dapat selalu tercapai. Kebenaran dari sebuah algoritma umumnya selalu dapat dicapai, setidaknya untuk nilai-nilai masukan umum, tetapi efisiensi dan kemudahan implementasi tidak selalu didapatkan. Begitupun, tentunya kita harus tetap berusaha mencapai ketiga hal tersebut dalam merancang sebuah algoritma.
 
+### Jenis - Jenis Algoritma
+Untuk tulisan disini hanya membahas jenis algoritma sorting dan juga searching.
+  * Pengertian algoritma sorting dan juga searching:
+    * Algoritma sorting, yaitu proses mengurutkan suatu data yang tidak terurut (acak) menjadi terurut secara menaik(Ascending) atau menurun(Descending).
+    * Algoritma searching, yaitu proses mencari suatu data didalam kumpulan data.
+    
+  * Jenis - jenis algoritma sorting yang umum:
+    * Insertion Sort.
+    * Selection Sort.
+    * Bubble Sort.
+    * Shell Sort.
+    * Quick Sort.
+    * Merge Sort.
+    
+  * Jenis - jenis algoritma searching yang umum:
+    * Linear Search, disebut juga sebagai Sequential Search.
+    * Binary Search.
+
 ## Pengenalan Struktur Data
 **Dalam istilah ilmu komputer**, **Struktur Data** adalah cara penyimpanan, penyusunan dan pengaturan data di dalam media penyimpanan komputer sehingga data tersebut dapat digunakan secara efisien.
 
