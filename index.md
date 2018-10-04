@@ -52,6 +52,6 @@ File Html -> [Struktur Data - Project Akhir UAS - Semester 3](https://nuevoquert
 File Pdf -> [Struktur Data - Project Akhir UAS - Semester 3](https://drive.google.com/file/d/1YbX2IXexd-xmX4-AWpaHSOoHenn6liPh/view?usp=sharing){:target="_blank"}
 
 ## Sumber Referensi
-(https://id.wikipedia.org/wiki/Struktur_data){:target="_blank"}<br />
-(https://bertzzie.com/knowledge/analisis-algoritma/PengenalanDesaindanAnalisisAlgoritma.html){:target="_blank"}<br />
-(https://www.it-jurnal.com/pengertian-struktur-data/){:target="_blank"}
+https://id.wikipedia.org/wiki/Struktur_data{:target="_blank"}<br />
+https://bertzzie.com/knowledge/analisis-algoritma/PengenalanDesaindanAnalisisAlgoritma.html{:target="_blank"}<br />
+https://www.it-jurnal.com/pengertian-struktur-data/{:target="_blank"}
