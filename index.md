@@ -26,6 +26,8 @@ Pada prakteknya, tentunya ketiga hal tersebut tidak dapat selalu tercapai. Keben
 ## Pengenalan Struktur Data
 **Dalam istilah ilmu komputer**, **Struktur Data** adalah cara penyimpanan, penyusunan dan pengaturan data di dalam media penyimpanan komputer sehingga data tersebut dapat digunakan secara efisien.
 
+Dalam teknik pemrograman, struktur data berarti tata letak data yang berisi kolom-kolom data,baik itu kolom yang tampak oleh pengguna (user) ataupunkolom yang hanya digunakan untuk keperluan pemrograman yang tidak tampak oleh pengguna. Setiap baris dari kumpulan kolom-kolom tersebut dinamakan catatan (record). Lebar kolom untuk data dapat berubah dan bervariasi. Ada kolom yang lebarnya berubah secara dinamis sesuai masukan dari pengguna dan juga ada kolom yang lebarnya tetap.
+
 ## Link Algoritma, Pseucode dan juga Flowchart
 File Html -> [Struktur Data - Project Akhir UAS - Semester 3](https://nuevoquerto.github.io/project.html){:target="_blank"}
 
