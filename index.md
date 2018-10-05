@@ -1,3 +1,7 @@
+---
+title: Nuevo Querto
+---
+
 # Struktur Data Dan Algoritma
 
 ## Pengenalan Algoritma
