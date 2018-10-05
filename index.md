@@ -1,7 +1,3 @@
-{
-  "pages_hostname": "Nuevo Querto"
-}
-
 # Struktur Data Dan Algoritma
 
 ## Pengenalan Algoritma
